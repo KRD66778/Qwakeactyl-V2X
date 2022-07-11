@@ -4,6 +4,7 @@
 
 # Discord
 [discord server](https://discord.gg/k26zKJVf)
+https://discord.gg/icdev
 
 # Qwakeactyl V2 | The Best Control Panel For Pterodactyl
 Making a free or paid host and need a way for users to sign up, earn coins, manage servers? Try out Qwakeactyl.
