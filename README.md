@@ -68,7 +68,7 @@ only for windows installer
 `curl -fsSL https://deb.nodesource.com/setup_14.x | sudo bash -`<br>
 `apt install nodejs`<br>
 `npm -v`<br>
-`git clone https://github.com/Qwakeactyl/Qwakeactyl.git`<br>
+`git clone https://github.com/KRD66778/Qwakeactyl-V2X.git`<br>
 `cd Qwakeactyl`<br>
 `npm install`<br>
 `apt install nginx`<br>
