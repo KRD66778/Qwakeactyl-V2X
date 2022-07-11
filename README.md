@@ -98,7 +98,7 @@ This project was not possible without [Dashactyl](https://github.com/Votion-Deve
 
 # Contributors
 <a href = "https://github.com/Qwakeactyl/Qwakeactyl/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Qwakeactyl/Qwakeactyl"/>
+  <img src = "https://contrib.rocks/image?repo=Qwakeactyl/Qwakeactyl-V2X"/>
 </a>
 
 
