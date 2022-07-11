@@ -3,19 +3,19 @@
     "defaulttheme": "Qwakeactyl",
     "website": {
       "port": 80,
-      "secret": "asassafafasfdkskciaosufy9wq7r214sfdsfasfasfasfadf",
+      "secret": "scret",
       "maintenance": false,
-"webhookurl":"https://discord.com/api/webhooks/991240409948889100/uSWDMvldOFMhiSCzM1Bweeas1LJDk08eUv-LpKNETh0eJKqN8xeZV6ZT4s_Pq0SRKFO4",
+"webhookurl":"",
       "note": "this iwebhook url is for contact us",
       
-      "sitekey": "6LfefasgAAAAADHxYTgoHC3OGd81qZFFBKYqW1D4",
-      "secretkey":"6LfefasgAAAAAAF0Q6CscJ_SOLnZEGb9hQ4e5BX8",
+      "sitekey": "",
+      "secretkey":"",
       
       "note": "site key and secret key u will get from https://www.google.com/u/3/recaptcha/admin"
     },
     "pterodactyl": {
-      "domain": "https://pre.icnodes.gq", 
-      "key": "ptla_k7jDpCu6BG0IVNbE8rMBZz4aKTjQLZDEbk89jB24KQJ"
+      "domain": "", 
+      "key": ""
     },
     "linkvertise": {
     "userid": "10000",
@@ -67,7 +67,7 @@
       "client": {
          "api": {
            "enabled": true,
-           "code": "ptla_k7jDpCu6BG0IVNbE8rMBZz4aKTjQLZDEbk89jB24KQJ"
+           "code": ""
          },
          "j4r": {
           "enabled": true,
@@ -132,9 +132,9 @@
         },
         "oauth2": {
           "_comment": "Go to https://discord.dev/ and create an application to set these up.",
-          "id": "949531589010919515",
-          "secret": "W9ifQh4PVHVd9nHU3o9I9bbCAicb_A5w",
-          "link": "https://qwakeactyl.itscrazykns.repl.co",
+          "id": "",
+          "secret": "",
+          "link": "",
           "callbackpath": "/callback",
           "prompt": true,
   
